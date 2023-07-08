@@ -14,5 +14,5 @@
 		功能：接收ARC运动控制板卡的运动指令，逆解出舵机传动角度，驱动机械臂完成指定动作。
   
 ## 流程图：
-![System_Architecture](./C:/System_Architecture.jpg)
+![./C:/System_Architecture.jpg](https://github.com/Caotingyao/picture/blob/main/System_Architecture.png)
 
