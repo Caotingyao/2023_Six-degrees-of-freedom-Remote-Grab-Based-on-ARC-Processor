@@ -13,9 +13,5 @@
 		内容：运动指令解析，运动学逆解以及机械臂驱动代码。
 		功能：接收ARC运动控制板卡的运动指令，逆解出舵机传动角度，驱动机械臂完成指定动作。
   
-## 流程图：
 
-
-
-![流程](https://github.com/Caotingyao/2023_Six-degrees-of-freedom-Remote-Grab-Based-on-ARC-Processor/assets/135319814/119de3c8-0455-4d63-a734-e08d7e0210b3)
 
