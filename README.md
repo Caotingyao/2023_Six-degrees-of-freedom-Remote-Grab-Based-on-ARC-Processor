@@ -14,6 +14,8 @@
 		功能：接收ARC运动控制板卡的运动指令，逆解出舵机传动角度，驱动机械臂完成指定动作。
   
 ## 流程图：
-![流程](https://github.com/Caotingyao/2023_Six-degrees-of-freedom-Remote-Grab-Based-on-ARC-Processor/assets/135319814/3dc398eb-9ddc-462b-b344-70c50c0cf218)
 
+
+
+![流程](https://github.com/Caotingyao/2023_Six-degrees-of-freedom-Remote-Grab-Based-on-ARC-Processor/assets/135319814/119de3c8-0455-4d63-a734-e08d7e0210b3)
 
