@@ -1,3 +1,5 @@
+Six degrees of freedom Remote Grab Based on ARC Processor
+
 文件说明：
 	ARC_ctr：
 		内容：负责运动控制的ARC板卡的代码。
