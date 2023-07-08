@@ -1,6 +1,6 @@
-Six degrees of freedom Remote Grab Based on ARC Processor
+# Six degrees of freedom Remote Grab Based on ARC Processor
 
-- 文件说明：
+## 文件说明：
 	ARC_ctr：
 		内容：负责运动控制的ARC板卡的代码。
 		功能：接收蓝牙信号或视觉识别结果，计算运动轨迹，发送运动指令给机械臂驱动板卡。
