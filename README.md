@@ -13,5 +13,6 @@
 		内容：运动指令解析，运动学逆解以及机械臂驱动代码。
 		功能：接收ARC运动控制板卡的运动指令，逆解出舵机传动角度，驱动机械臂完成指定动作。
   
-
+## 流程图：
+![System_Architecture](./doc/imge/System_Architecture.jpg)
 
